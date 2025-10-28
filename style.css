@@ -74,15 +74,15 @@
        color: white;
       border: none;
       border-radius: 8px;
-      padding: 12px 25px;
+      padding: 12px 50px;
       font-size: 14px;
       font-weight: bold;
       display: flex;
       align-items: center;
       justify-content: center;
-      gap: 10px;
+      gap: 15px;
       cursor: pointer;
-      margin-left: 50px;
+      margin-left: 40px;
     }
     .add-cart:hover {
       background-color: hsl(158, 36%, 27%);
