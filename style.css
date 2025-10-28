@@ -69,16 +69,21 @@
       padding-top: -60px;
     }
 
-    .btn {
+    .add-cart{
       background-color: hsl(158, 36%, 37%);
-      color: white;
+       color: white;
       border: none;
-      padding: 10px;
-      width: 100%;
-      border-radius: 10px;
+      border-radius: 8px;
+      padding: 12px 25px;
       font-size: 14px;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      cursor: pointer;
+      margin-left: 50px;
     }
-
-    .btn:hover {
+    .add-cart:hover {
       background-color: hsl(158, 36%, 27%);
     }
